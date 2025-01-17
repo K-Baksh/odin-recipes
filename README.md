@@ -1,3 +1,3 @@
 # odin-recipes
 
-A simple recipe website which showcased the use of lists, links and images
+A simple recipe website which showcases the use of lists, links and images
